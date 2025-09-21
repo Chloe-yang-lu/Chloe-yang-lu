@@ -1,16 +1,41 @@
-## Hi there 👋
+# 你好，我是 Chloe！👋
 
-<!--
-**Chloe-yang-lu/Chloe-yang-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 教育背景
+- 北京语言大学 国际经济与贸易专业 经济学学士
+- 布里斯托大学 商业分析硕士 MSC Business Analytics
+- 26届应届秋招中 | 毕业时间：2025年12月-1月
 
-Here are some ideas to get you started:
+## 🎯 职业目标
+- 寻求数据分析 / 商业分析岗位
+- 期望将数据科学技能与业务洞察相结合，驱动用户增长与商业决策优化
+- 希望积累行业经历，探索未来研究方向
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 技能及特长
+### 专业技能
+- **数据分析**：Python (Pandas, NumPy, Matplotlib, sklearn, nltk)，SQL, R语言
+- **机器学习**：聚类分析，自然语言处理，情感分析，内容分析，预训练模型应用
+- **AI应用**：Prompt工程，大语言模型应用，Embedding应用
+- **业务分析**：用户画像，市场细分，竞品分析，投放策略制定
+- **商业优化**：线性建模，多目标优化，Binary Programming，DEA分析，Dynamic Programming，Markov Chain
+
+### 语言能力
+- 英语专八 TEM-8 合格，雅思7.5分
+- 西班牙语（基础）
+
+### 兴趣爱好
+- 🎬电影、🎾网球（2.5）
+- ☕咖啡爱好者，📖文艺创作者（诗歌、散文、摄影）
+- 🧩动漫、游戏
+- 🎻古典乐（业余小提琴手）
+
+---
+
+✨ **个人寄语**  
+文艺电影和摄影是热爱。而互联网与游戏行业、科技创新以及 AI 的发展，对我来说则是非常有趣，不断感到惊喜与好奇的领域。希望能发挥自己多元的背景，不一样的视角和蓬勃的好奇心，贡献women in STEM的新力量,作为一名研究者在探索中不断成长，为行业带来更多创新与价值。
+
+---
+
+📫 **联系方式**  
+- **邮箱**: yangluchloe@163.com  
+- **LinkedIn**: [www.linkedin.com/in/luyang12](www.linkedin.com/in/luyang12)
+
