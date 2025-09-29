@@ -2,7 +2,7 @@
 *(English | [中文简介](#中文简介))*  
 
 🎓 **MSc Business Analytics | University of Bristol**  
-📍 Based in Beijing/Shanghai (2026 Job Market Candidate)  
+📍 Based in Beijing/Shanghai/Global (2026 Job Market Candidate)  
 
 ---
 
@@ -55,7 +55,7 @@ I aim to combine **data-driven insights** with **market understanding** to drive
 # 中文简介  
 
 🎓 **布里斯托大学 商业分析硕士 (MSc Business Analytics)**  
-📍 求职意向地：北京 / 上海（2026届应届毕业生）  
+📍 求职意向地：北京 / 上海 / 全球（2026届应届毕业生）  
 
 ---
 
